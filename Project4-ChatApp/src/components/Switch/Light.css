@@ -1,0 +1,17 @@
+HTML[data-theme="light"] { 
+    color: black;
+    background-color: Gainsboro;
+  }
+
+/* .ce-chat-list[data-theme="light"] {
+    background-color: rgb(240, 240, 240) !important;
+  }
+.chat-feed[data-theme="light"] {
+    background-color: rgb(240, 240, 240) !important;
+  }
+.ce-settings[data-theme="light"] {
+    background-color: rgb(240, 240, 240) !important;
+  }
+.message-form-container[data-theme="light"] {
+    background-color: rgb(240, 240, 240) !important;
+  } */

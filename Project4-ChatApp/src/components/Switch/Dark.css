@@ -1,0 +1,26 @@
+HTML[data-theme="dark"] {
+    color: white; 
+    background-color: black;
+  }
+
+.ce-chat-list[data-theme="dark"] {
+    background-color: rgb(59,68,75) !important;
+  }
+.ce-chats-container[data-theme="dark"] {
+    background-color: rgb(59,68,75) !important;
+  }
+.chat-feed[data-theme="dark"] {
+    background-color: rgb(59,68,75) !important;
+  }
+.chat-title[data-theme="dark"] {
+    color: white !important;
+  }
+.chat-subtitle[data-theme="dark"] {
+    color: white !important;
+  }
+.ce-settings[data-theme="dark"] {
+    background-color: rgb(59,68,75) !important;
+  }
+.message-form-container[data-theme="dark"] {
+    background-color: rgb(59,68,75) !important;
+  }
